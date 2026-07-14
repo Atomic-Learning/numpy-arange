@@ -12,7 +12,6 @@
   ],
   "duration": 2,
   "prerequisites": [
-    "atomic-learning-python-cells-importing-packages",
     "numpy-arrays"
   ],
   "related": [
