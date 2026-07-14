@@ -1,4 +1,4 @@
-You can generate evenly spaced integer values with `np.arange()`{.python}.
+You can generate a 1D array of evenly spaced integer values with `np.arange()`{.python}.
 
 ```py-cell
 import numpy as np
