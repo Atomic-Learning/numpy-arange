@@ -16,9 +16,8 @@
     "numpy-arrays"
   ],
   "related": [
-    "numpy-reshape",
-    "exercise-numpy-array-construction-and-reshaping",
-    "python-range-in-for-loops"
+    "python-range-in-for-loops",
+    "exercise-numpy-array-construction-and-reshaping"
   ],
   "python_packages": [
     "numpy"
