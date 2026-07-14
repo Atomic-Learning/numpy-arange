@@ -1,22 +1,22 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
-    "authors": [
-        "",
-        ""
-    ],
-    "tags": [
-        "",
-        ""
-    ],
-    "duration": 0,
-    "prerequisites": [
-        "",
-        ""
-    ],
-    "related": [
-        "",
-        ""
-    ]
+  "title": "Numpy: Arange",
+  "slug": "numpy-arange",
+  "description": "Generate evenly spaced integer sequences with np.arange.",
+  "authors": [
+    "chris-cooling",
+    "giorgia-del-missier"
+  ],
+  "tags": [
+    "python",
+    "numpy"
+  ],
+  "duration": 2,
+  "prerequisites": [
+    "atomic-learning-python-cells-importing-packages",
+    "numpy-arrays"
+  ],
+  "related": [
+    "numpy-reshape",
+    "exercise-numpy-array-construction-and-reshaping"
+  ]
 }
